@@ -1,0 +1,14 @@
+{
+  "name": "unique-properties",
+  "version": "1.0.0",
+  "description": "npx tool to generate a list of unique JSON properties from an input directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "arlojay",
+  "license": "ISC",
+  "type": "commonjs",
+  "bin": "bin.js"
+}
