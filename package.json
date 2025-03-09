@@ -1,6 +1,6 @@
 {
   "name": "unique-properties",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npx tool to generate a list of unique JSON properties from an input directory",
   "main": "index.js",
   "scripts": {
